@@ -4,6 +4,7 @@
 {
 	//automatically called as soon as the javascript is loaded
 	window.addEventListener("load", main);
+	console.log("ola");
 }());
 
 
